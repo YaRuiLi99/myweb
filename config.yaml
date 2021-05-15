@@ -74,7 +74,7 @@ params:
 
   logo:
     en:
-      img: "/images/logo.jpg"
+      img: "/images/profile.jpeg"
       url: "/"
       alt: "Yarui Li"
       tag: ""
