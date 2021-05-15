@@ -24,6 +24,9 @@ menu:
     - name: "中文日记"
       url: "/cn/"
       weight: 3
+    - name: "Law review"
+      url: "/lr/"
+      weight: 4
 
     
   en:
@@ -36,6 +39,10 @@ menu:
     - name: "中文日记"
       url: "/cn/"
       weight: 3
+    - name: "Law review"
+      url: "/lr/"
+      weight: 4
+
 
   cn:
     - name: "About"
@@ -47,6 +54,9 @@ menu:
     - name: "中文日记"
       url: "/cn/"
       weight: 3
+    - name: "Law review"
+      url: "/lr/"
+      weight: 4
 
 
 params:
